@@ -21,4 +21,4 @@ jobs:
         with:
           args: >
             -Dsonar.projectKey=sonar-qube
-            -Dsonar.projectName='Git-hubAction'
+            -Dsonar.projectName='Sample-Qube'
